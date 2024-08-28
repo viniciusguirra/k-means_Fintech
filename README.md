@@ -4,7 +4,7 @@
 
 Este projeto visa realizar a **clusterização de clientes de uma fintech** usando o algoritmo **K-Means**. O objetivo é segmentar os clientes com base em suas características, como **renda presumida** e **idade**, 
 e analisar suas taxas de pagamento de dívidas. Com isso, a fintech pode obter insights valiosos sobre os diferentes perfis de clientes e tomar decisões estratégicas para melhorar suas operações.
-Os dados foram anonimizado bem como o nome da empresa, seguindo as diretrizes de LGPD.
+Os dados foram anonimizados bem como o nome da empresa, seguindo as diretrizes de LGPD.
 ## Problema de Negócio
 
 As principais questões abordadas pelo projeto são:
