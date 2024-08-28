@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 Este projeto visa realizar a **clusterização de clientes de uma fintech** usando o algoritmo **K-Means**. O objetivo é segmentar os clientes com base em suas características, como **renda presumida** e **idade**, 
-e analisar suas taxas de pagamento de dívidas. Com isso, a fintech pode obter insights valiosos sobre os diferentes perfis de clientes e tomar decisões estratégicas para melhorar suas operações.
+e analisar suas taxas de pagamento de dívidas. Com isso, a fintech pode obter insights sobre os diferentes perfis de clientes e tomar decisões estratégicas para melhorar suas operações.
 Os dados foram anonimizados bem como o nome da empresa, seguindo as diretrizes de LGPD.
 ## Problema de Negócio
 
@@ -32,7 +32,7 @@ O projeto está estruturado nas seguintes etapas:
    - Uso do **Método do Cotovelo (Elbow Method)** para determinar o número ideal de clusters (K=3).
 
 5. **Análise dos Clusters Criados**:
-   - Interpretação dos perfis de cada cluster com base em **renda** e **idade**.
+   - Interpretação e caracterização dos perfis de cada cluster com base em **renda** e **idade**.
    - Avaliação das taxas de pagamento em cada cluster.
 
 6. **Insights e Recomendações**:
